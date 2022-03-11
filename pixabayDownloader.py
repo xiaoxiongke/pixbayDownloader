@@ -1,5 +1,3 @@
-# https://pixabay.com/api/videos/?key=23946513-5258cec0cebe448ba5a533e87&q=yellow+flowers
-
 import imp
 from urllib.parse import urlencode
 from urllib import parse
